@@ -1,4 +1,4 @@
-## A programming quiz app for programming language basic using React & Fireabse.
+## A programming quiz app for programming language basics using React & Fireabse.
 
 # Getting Started with Create React App
 
